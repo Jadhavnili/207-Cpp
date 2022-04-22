@@ -20,6 +20,6 @@ void main()
  cout<<endl;
  print(10,20);//function with two parameters
  cout<<endl;
- print("Saptesh"); //function with string
+ print("nilima"); //function with string
  getch();
  }
